@@ -9,7 +9,8 @@ Accordingly to https://bugs.eclipse.org/bugs/attachment.cgi?id=199751 there will
 ## Limitations
 
 There are some limitations:
-- there can be only one configuration per maven project
-- there can be only one output folder
-- all of the dependencies have to be added to the dependencies section of configuration element
+
+* there can be only one configuration per maven project
+* there can be only one output folder
+* all of the dependencies have to be added to the dependencies section of configuration element
 
