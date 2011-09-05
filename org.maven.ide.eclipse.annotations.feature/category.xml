@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description>
+      Maven integration for annotation processing
+   </description>
+   <feature url="features/org.maven.ide.eclipse.annotations.feature_0.0.1.qualifier.jar" id="org.maven.ide.eclipse.annotations.feature" version="0.0.1.qualifier">
+      <category name="m2e-annotations"/>
+   </feature>
+   <category-def name="m2e-annotations" label="Maven integration for annotation processing">
+      <description>
+         Optional Maven (M2E) integration for annotation processing.
+      </description>
+   </category-def>
+</site>
