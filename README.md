@@ -1,5 +1,7 @@
 # m2e-annotations
 
+NOTE: https://github.com/jbosstools/m2e-apt is a more up-to-date alternative Maven plugin which does the same thing as this.
+
 m2e-annotations - eclipse plugin that configures m2e eclipse projects to use annotation processors via org.bsc.maven:maven-processor-plugin.
 
 Accordingly to https://bugs.eclipse.org/bugs/attachment.cgi?id=199751 there will be built-in support for annotation processors, until that happens you can try this configurer.
